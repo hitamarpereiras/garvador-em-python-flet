@@ -12,7 +12,6 @@ Por: Hitamar Pereira.
 
 ##########################################################################################################################
 
-Aqui está a tradução para o inglês:
 
 This application is still in development and will receive future updates.
 
