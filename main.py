@@ -120,7 +120,7 @@ def main(page: ft.Page):
     
     page.add(
         ft.Row(
-            alignment= ft.MainAxisAlignment.START,
+            alignment= ft.MainAxisAlignment.CENTER,
             controls=[
                 ft.Text('Recording', size= 20, color='#caff42a2')
             ]
