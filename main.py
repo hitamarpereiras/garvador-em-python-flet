@@ -71,7 +71,7 @@ def main(page: ft.Page):
     ######## IMAGEM DO MICROFONE ########
     mic = ft.Image(
         src= './assets/mic_no_rec.png',
-        width= 150
+        width= 140
     ) 
 
     ######## PLAY FOR REC TEXT ########
