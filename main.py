@@ -4,8 +4,6 @@ from function_rec import stop_rec
 from function_rec import save_recording
 from time import sleep
 
-lista = []
-
 def main(page: ft.Page):
     page.window_width= 320
     page.window_height= 520
