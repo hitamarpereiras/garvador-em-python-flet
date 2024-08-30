@@ -1,3 +1,5 @@
+# Gravador de Voz em Python
+
 Este aplicativo ainda está em desenvolvimento e receberá atualizações futuras.
 
 Abaixo está um resumo básico:
@@ -12,6 +14,7 @@ Por: Hitamar Pereira.
 
 ##########################################################################################################################
 
+# Recording Voice in Python 
 
 This application is still in development and will receive future updates.
 
